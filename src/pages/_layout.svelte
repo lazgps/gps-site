@@ -1,8 +1,8 @@
 <!-- routify:options preload="proximity" -->
 <script>
-    import Headr from '../components/Headr.svelte';
-    import Nav from '../components/Nav.svelte';
-    import Foot from '../components/Foot.svelte';
+    import Headr from './_components/Headr.svelte';
+    import Nav from './_components/Nav.svelte';
+    import Foot from './_components/Foot.svelte';
 </script>
 
 <div class="container bg-default h-screen min-h-screen mt-0 md:mx-20">
